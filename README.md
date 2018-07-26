@@ -8,9 +8,9 @@ By: Aashia Mehta
 - [x] User can determine what blood types can be safely transfused by checking the blood type. Next, the user can check the Rh factor. If the allele for the Rh gene is positive (+), then the user can transfuse positive (+) and negative (-) blood. If the allele for the Rh gene is negative (-), then you can only transfuse negative (-) blood.
 
 ## Images
-<img src='BloodTransfusingInstructions.jpg' width="50%" height="50%"/>
-<img src='BloodTypingInstructions.jpg' width="50%" height="50%"/>
-<img src='ThirdWin.jpg' width="50%" height="50%"/>
+<img src='/BloodTransfusingInstructions.jpg' width="50%" height="50%"/>
+<img src='/BloodTypingInstructions.jpg' width="50%" height="50%"/>
+<img src='/ThirdWin.jpg' width="50%" height="50%"/>
 
 ## Notes
 This was one of the first coding projects I created on my own for my Java class in high school. This class peaked my interest in computer science and was the reason I decided to pursue it as my major in college.
